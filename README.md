@@ -1,2 +1,0 @@
-# PictureMatching
-Game
